@@ -24,7 +24,7 @@ A fun game for guessing a number between 1 to 20
 
 ### Built with
 
-- HTNL
+- HTML
 - CSS
 - Flexbox
 - JavaScript
