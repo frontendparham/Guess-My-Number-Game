@@ -18,7 +18,7 @@ A fun game for guessing a number between 1 to 20
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://frontendparham.github.io/Order-Summary-Card/)
+- Live Site URL: [GitHub Pages](https://frontendparham.github.io/Guess-My-Number-Game/)
 
 ## My process
 
